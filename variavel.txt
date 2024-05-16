@@ -1,0 +1,7 @@
+algoritmo de variavel
+
+let nome = 'Jose Almeida Da Silva '  //caractere
+let cpf = '12345678900'    //inteiro
+let rua = '1,78'    //real
+let endereço = 'Endereço: Rua A, 380 – Centro – Recife/PE'  //inteiro e caractere 
+

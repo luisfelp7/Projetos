@@ -1,0 +1,10 @@
+
+# Solicita ao usuário que escolha uma opção e digite o número escolhido
+escolher = input('1 - Clientes fumantes ou com animais de estimação /2 - Grupos de 5 ou mais/ 3 - Qualquer outro grupo de pessoas/ ')
+
+if escolher == '1':
+    print('Sua área é externa.')
+elif escolher == '2':
+    print('Sua área é o primeiro andar.')
+else:
+    print('Sua área é o térreo.')

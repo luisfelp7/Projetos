@@ -1,0 +1,7 @@
+nome = input('digite o nome da sua equipe ')
+print ('nome dos integrantes da equipe')
+print (nome + '_1')
+print (nome + '_2')
+print (nome + '_3')
+print (nome + '_4') 
+print (nome + '_5')

@@ -1,0 +1,6 @@
+1 true , pois tem 2 condições nos sinais 
+2 false , pois 4 e maior que 3 
+3 false , convidados e igual a 3
+4 false , valores diferentes
+5 verdadeiro, o not muda a expressão
+6 false , apenas 1 e verdadeir

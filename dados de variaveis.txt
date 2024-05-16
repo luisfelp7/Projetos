@@ -1,0 +1,13 @@
+algoritmo feito em python
+nome  = input( "qual e o seu nome ? ")
+endereço = (input (" qual seu endereço ? "))
+cidade  = input(" onde você mora ") 
+CPF = int(input( "informe seu CPF "))
+RG =  int(input(  " informe seu RG "))
+
+print (nome )
+print ( endereço)
+print (cidade)
+print (CPF )
+print (RG)
+print ('deu certo')

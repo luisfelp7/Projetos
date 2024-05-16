@@ -1,0 +1,18 @@
+Passo 1: Observar o padrão original
+Inicialmente, o professor conhece o padrão da sala após a adição dos onze novos alunos (imagem 2). É importante entender como os alunos estavam organizados neste momento. Suponhamos que eles estivessem alternados em linhas ou colunas de acordo com a disciplina de preferência.
+
+Passo 2: Comparar com a configuração alterada
+Quando o professor retorna e encontra a nova configuração (imagem 3), ele deve observar cuidadosamente para notar qualquer discrepância em relação ao padrão observado inicialmente. Isso inclui verificar:
+
+Se a alternância entre alunos de Português e Matemática foi interrompida;
+Se há alunos em lugares que não correspondem ao padrão de disciplinas.
+Passo 3: Identificar a troca
+Uma vez que uma irregularidade é detectada (por exemplo, dois alunos de Português sentados juntos onde deveria haver um de cada), o professor pode inferir que uma troca ocorreu entre alunos de diferentes disciplinas. O professor pode identificar especificamente as cadeiras onde os alunos estão fora de padrão.
+
+Passo 4: Verificar as cadeiras adjacentes
+O professor pode então observar as cadeiras diretamente adjacentes ao lugar onde a inconsistência foi encontrada. Se um aluno de Matemática está sentado numa sequência que deveria ser de Português, provavelmente a troca ocorreu com um aluno de Português nas proximidades imediatas.
+
+Conclusão
+Determinar exatamente a cadeira e os alunos envolvidos requer uma análise do padrão estabelecido e sua perturbação. O professor pode então deduzir que a troca ocorreu na cadeira onde o padrão foi quebrado, identificando as disciplinas dos alunos envolvidos pela comparação com os lugares corretos ao redor.
+
+Se você puder descrever as imagens ou o padrão mais especificamente, eu poderia oferecer uma explicação mais detalhada e precisa.
